@@ -21,7 +21,7 @@ chocolate-sales/
 ├── query.sql                # 5 business intelligence SQL queries
 └── Data_set_14.pbix         # Power BI interactive dashboard
 ```
-
+ 
 ---
 
 ## 🗄️ Database Schema
